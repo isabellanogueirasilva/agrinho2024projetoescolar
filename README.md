@@ -1,4 +1,4 @@
-🌿 Projeto Agrinho 2024 – Sustentabilidade e Tecnologia - cultitec
+**🌿 Projeto Agrinho 2024 – Sustentabilidade e Tecnologia - cultitec
 
 Este projeto foi desenvolvido para o programa Agrinho 2024, com o objetivo de apresentar uma solução simples e educativa sobre sustentabilidade, agricultura e consciência ambiental.
 
